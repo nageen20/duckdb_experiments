@@ -1,6 +1,6 @@
 # duckdb_experiments
 This repository contains my work with DuckDB and the experiments I run on DuckDB. The repository contains a data folder where we are supposed to have the datasets. The code is in the form of Jupyter notebooks.
-Please refer to the accompanying blog here - . You can find more details about this repository in the blog.
+Please refer to the accompanying blog here - https://learn2infiniti.com/experimenting-with-duckdb/. You can find more details about this repository in the blog.
 Following datasets are used in the analysis so far:
 1. Anime dataset - https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
 2. Bitcoint 1 second dataset Part 1 - https://www.kaggle.com/datasets/tzelal/binance-bitcoin-dataset-1s-timeframe-p1/data
