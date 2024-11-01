@@ -32,7 +32,7 @@ Parquet vs DuckDB computes technical indicators on the bitcoin datasets. Both th
 ### Blog Posts
 There are two accompanying blog posts to explain more about the tests that were performed.
 1. DuckDB - Exploring and Experimenting - https://learn2infiniti.com/experimenting-with-duckdb/. This blog focuses on explaining the details in the first three jupyter notebooks.
-2. Parquet and DuckDB - Analyzing large datasets -  This blog focuses on explaining the details in the `Parquet vs DuckDB` notebook.
+2. Parquet and DuckDB - Analyzing large datasets - https://learn2infiniti.com/parquet-and-duckdb-analyzing-large-datasets/ - This blog focuses on explaining the details in the `Parquet vs DuckDB` notebook.
 
 
 
